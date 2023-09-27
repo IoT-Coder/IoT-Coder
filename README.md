@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @IoT-Coder
+- 👀 This is my first appearance on GitHub and my first public shared code
+- please feel free to download and fork ....
+
+<!---
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+--->
+<!---
+IoT-Coder/IoT-Coder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
