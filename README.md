@@ -2,6 +2,10 @@
 - 👀 This is my first appearance on GitHub and my first public shared code
 - please feel free to download and fork ....
 
+## Magic Mirror Module for Shelly+HT Adapter ##
+* ## https://github.com/IoT-Coder/MMM-ShellyPlus-HT ##
+
+
 <!---
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
