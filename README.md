@@ -5,6 +5,9 @@
 ## Magic Mirror Module for Shelly+HT Adapter ##
 * ## https://github.com/IoT-Coder/MMM-ShellyPlus-HT ##
 
+## Googel App script to make an individual birthday calendar ##
+* ## https://github.com/IoT-Coder/birthday_calendar ##
+
 
 <!---
 - 🌱 I’m currently learning ...
