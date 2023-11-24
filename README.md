@@ -6,7 +6,7 @@
 * ## https://github.com/IoT-Coder/MMM-ShellyPlus-HT ##
 
 ## Googel App script to make an individual birthday calendar ##
-* ## https://github.com/IoT-Coder/birthday_calendar ##
+* ## [https://github.com/IoT-Coder/GoogleAppScript](https://github.com/IoT-Coder/GoogleAppScript) ##
 
 
 <!---
